@@ -6,11 +6,6 @@ A full-stack social network application with a Node.js/Express REST API backend 
 
 **GitHub:** [https://github.com/leomark-sio/SocialNetwork](https://github.com/leomark-sio/SocialNetwork)
 
-## Contact
-
-- **Email:** [leomarksio386@gmail.com](mailto:leomarksio386@gmail.com)
-- **GitHub:** [https://github.com/leomark-sio](https://github.com/leomark-sio)
-
 ---
 
 ## Project Structure
