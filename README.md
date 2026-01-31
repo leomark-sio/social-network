@@ -17,7 +17,7 @@ A full-stack social network application with a Node.js/Express REST API backend 
 
 ```
 SocialNetwork/
-├── old-backend/     # Express.js REST API (Node.js + MongoDB)
+├── backend/     # Express.js REST API (Node.js + MongoDB)
 └── social/         # Next.js frontend
 ```
 
